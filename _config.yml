@@ -1,6 +1,6 @@
 name: Clumsy Kitty Creations
 favicon: null
-layout_spectrum: 0.30677
+layout_spectrum: 0.18876
 typography_spectrum: 0.59215
 title: Clumsy Kitty Creations
 cta:
@@ -24,6 +24,6 @@ color:
     - '#79868e'
   brandStrength: 0.75
   lightness: 0.75
-  saturation: 0.5
+  saturation: 0.375
   rhythmicContrast: 0
 purpose: []
