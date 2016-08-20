@@ -1,7 +1,18 @@
+layout_spectrum: 0.3203733707778156
+typography_spectrum: 0.5468305558897555
+color:
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  brandStrength: 0.3404650241136551
+  lightness: 0.42193051311187446
+  saturation: 0.32526538940146565
+  rhythmicContrast: 0.4880325887352228
 name: Clumsy Kitty Creations
 favicon: null
-layout_spectrum: 0.90488
-typography_spectrum: 0.59215
 title: Clumsy Kitty Creations
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#010300'
-    - '#2e2e2e'
-    - '#f2e2af'
-    - '#be8a47'
-    - '#79868e'
-  brandStrength: 0.25
-  lightness: 0.75
-  saturation: 0.375
-  rhythmicContrast: 0
 purpose: []
